@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3249b991-02f5-475b-9143-8e90f032629e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LuaBase.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LuaBase.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LuaBase.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LuaBase.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuaCode/HelloLua.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuaCode/LuaDataType.lua" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LuaBase" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="NewLua" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LuaCode/HelloLua.lua" />
+        <option value="$PROJECT_DIR$/LuaCode/LuaDataType.lua" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XLTzrJST5oRlEFNDlTYrhqGjYR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C#" />
+  </component>
+  <component name="RunManager" selected="Lua Application.LuaDataType.lua">
+    <configuration name="HelloLua.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="$USER_HOME$/lua-5.3.5/src/lua" />
+      <option name="file" value="$PROJECT_DIR$/LuaCode/HelloLua.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/LuaCode" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LuaDataType.lua" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="$USER_HOME$/lua-5.3.5/src/lua" />
+      <option name="file" value="$PROJECT_DIR$/LuaCode/LuaDataType.lua" />
+      <option name="workingDir" value="$USER_HOME$/lua-5.3.5" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua" />
+      <option name="file" value="" />
+      <option name="workingDir" value="$USER_HOME$/lua-5.3.5" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Lua Application.LuaDataType.lua" />
+      <item itemvalue="Lua Application.HelloLua.lua" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Lua Application.HelloLua.lua" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3249b991-02f5-475b-9143-8e90f032629e" name="Default Changelist" comment="" />
+      <created>1580824640810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580824640810</updated>
+      <workItem from="1580824644633" duration="3812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="228" key="#HelloLua.lua" timestamp="1580825854775">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="560" y="228" key="#HelloLua.lua/0.23.1680.981@0.23.1680.981" timestamp="1580825854775" />
+    <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580826782759">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.980@0.23.1680.980" timestamp="1580826159939" />
+    <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.981@0.23.1680.981" timestamp="1580826782759" />
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom" timestamp="1580828672836">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580828672836" />
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1580826201109" />
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom/0.23.1680.981@0.23.1680.981" timestamp="1580826803663" />
+    <state width="1638" height="263" key="GridCell.Tab.0.center" timestamp="1580828672835">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580828672835" />
+    <state width="1638" height="263" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1580826201109" />
+    <state width="1638" height="263" key="GridCell.Tab.0.center/0.23.1680.981@0.23.1680.981" timestamp="1580826803662" />
+    <state width="1638" height="263" key="GridCell.Tab.0.left" timestamp="1580828672834">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580828672834" />
+    <state width="1638" height="263" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1580826201108" />
+    <state width="1638" height="263" key="GridCell.Tab.0.left/0.23.1680.981@0.23.1680.981" timestamp="1580826803661" />
+    <state width="1638" height="263" key="GridCell.Tab.0.right" timestamp="1580828672835">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580828672835" />
+    <state width="1638" height="263" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1580826201109" />
+    <state width="1638" height="263" key="GridCell.Tab.0.right/0.23.1680.981@0.23.1680.981" timestamp="1580826803662" />
+    <state width="1638" height="325" key="GridCell.Tab.1.bottom" timestamp="1580826161326">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.1.bottom/0.23.1680.980@0.23.1680.980" timestamp="1580826161326" />
+    <state width="1638" height="325" key="GridCell.Tab.1.bottom/0.23.1680.981@0.23.1680.981" timestamp="1580825976029" />
+    <state width="1638" height="325" key="GridCell.Tab.1.center" timestamp="1580826161326">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.1.center/0.23.1680.980@0.23.1680.980" timestamp="1580826161326" />
+    <state width="1638" height="325" key="GridCell.Tab.1.center/0.23.1680.981@0.23.1680.981" timestamp="1580825976028" />
+    <state width="1638" height="325" key="GridCell.Tab.1.left" timestamp="1580826161325">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.1.left/0.23.1680.980@0.23.1680.980" timestamp="1580826161325" />
+    <state width="1638" height="325" key="GridCell.Tab.1.left/0.23.1680.981@0.23.1680.981" timestamp="1580825976027" />
+    <state width="1638" height="325" key="GridCell.Tab.1.right" timestamp="1580826161326">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.1.right/0.23.1680.980@0.23.1680.980" timestamp="1580826161326" />
+    <state width="1638" height="325" key="GridCell.Tab.1.right/0.23.1680.981@0.23.1680.981" timestamp="1580825976028" />
+    <state x="349" y="136" key="SettingsEditor" timestamp="1580828774189">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="136" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1580828774189" />
+    <state x="349" y="150" key="SettingsEditor/0.23.1680.980@0.23.1680.980" timestamp="1580825911150" />
+    <state x="349" y="150" key="SettingsEditor/0.23.1680.981@0.23.1680.981" timestamp="1580825441413" />
+  </component>
+</project>
