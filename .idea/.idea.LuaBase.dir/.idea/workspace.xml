@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3249b991-02f5-475b-9143-8e90f032629e" name="Default Changelist" comment="lua的基本数据结构">
-      <change afterPath="$PROJECT_DIR$/LuaCode/LuaExercise4.lua" afterDir="false" />
+    <list default="true" id="3249b991-02f5-475b-9143-8e90f032629e" name="Default Changelist" comment="lua的require的使用">
+      <change afterPath="$PROJECT_DIR$/LuaCode/LuaExercise5.lua" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LuaBase.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LuaBase.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LuaCode/HelloLua.lua" beforeDir="false" afterPath="$PROJECT_DIR$/LuaCode/HelloLua.lua" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +30,10 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LuaCode/LuaExercise2.lua" />
         <option value="$PROJECT_DIR$/LuaCode/LuaExercise3.lua" />
-        <option value="$PROJECT_DIR$/LuaCode/LuaExercise4.lua" />
         <option value="$PROJECT_DIR$/LuaCode/HelloLua.lua" />
+        <option value="$PROJECT_DIR$/LuaCode/LuaExercise4.lua" />
+        <option value="$PROJECT_DIR$/LuaCode/LuaExercies5.lua" />
+        <option value="$PROJECT_DIR$/LuaCode/LuaExercise5.lua" />
       </list>
     </option>
   </component>
@@ -53,7 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C#" />
   </component>
-  <component name="RunManager" selected="Lua Application.LuaExercise4.lua">
+  <component name="RunManager" selected="Lua Application.LuaExercise5.lua">
     <configuration name="HelloLua.lua" type="lua.app" factoryName="Lua Application" temporary="true">
       <option name="program" value="$USER_HOME$/lua-5.3.5/src/lua" />
       <option name="file" value="$PROJECT_DIR$/LuaCode/HelloLua.lua" />
@@ -104,6 +105,16 @@
       <option name="showConsole" value="true" />
       <method v="2" />
     </configuration>
+    <configuration name="LuaExercise5.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="$USER_HOME$/lua-5.3.5/src/lua" />
+      <option name="file" value="$PROJECT_DIR$/LuaCode/LuaExercise5.lua" />
+      <option name="workingDir" value="$USER_HOME$/lua-5.3.5" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="lua.app" factoryName="Lua Application">
       <option name="program" value="$USER_HOME$/lua-5.3.5/src/lua" />
       <option name="file" value="" />
@@ -120,9 +131,11 @@
       <item itemvalue="Lua Application.LuaExercise2.lua" />
       <item itemvalue="Lua Application.LuaExercise3.lua" />
       <item itemvalue="Lua Application.LuaExercise4.lua" />
+      <item itemvalue="Lua Application.LuaExercise5.lua" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Lua Application.LuaExercise5.lua" />
         <item itemvalue="Lua Application.LuaExercise4.lua" />
         <item itemvalue="Lua Application.LuaExercise3.lua" />
         <item itemvalue="Lua Application.LuaExercise2.lua" />
@@ -153,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580824640810</updated>
       <workItem from="1580824644633" duration="7368000" />
-      <workItem from="1580995447909" duration="7252000" />
+      <workItem from="1580995447909" duration="11980000" />
     </task>
     <task id="LOCAL-00001" summary="lua中基础数据类型的使用">
       <created>1580828835244</created>
@@ -183,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581259657090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lua的require的使用">
+      <created>1581263060998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581263060998</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +229,8 @@
     <MESSAGE value="lua中表达式 循环 逻辑语句的使用" />
     <MESSAGE value="lua中 字符串和表的详细使用" />
     <MESSAGE value="lua的基本数据结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="lua的基本数据结构" />
+    <MESSAGE value="lua的require的使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="lua的require的使用" />
   </component>
   <component name="WindowStateProjectService">
     <state x="560" y="228" key="#HelloLua.lua" timestamp="1580825854775">
@@ -222,59 +243,63 @@
     <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.980@0.23.1680.980" timestamp="1580826159939" />
     <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.981@0.23.1680.981" timestamp="1581262787256" />
     <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.982@0.23.1680.982" timestamp="1581261398246" />
-    <state width="1638" height="235" key="GridCell.Tab.0.bottom" timestamp="1581262901315">
-      <screen x="0" y="23" width="1680" height="982" />
+    <state width="788" height="235" key="GridCell.Tab.0.bottom" timestamp="1581436448783">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="788" height="235" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581262743928" />
+    <state width="788" height="235" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581436448783" />
     <state width="1638" height="263" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1580826201109" />
     <state width="1638" height="235" key="GridCell.Tab.0.bottom/0.23.1680.981@0.23.1680.981" timestamp="1581262805610" />
     <state width="1638" height="235" key="GridCell.Tab.0.bottom/0.23.1680.982@0.23.1680.982" timestamp="1581262901315" />
     <state width="1638" height="235" key="GridCell.Tab.0.bottom/0.23.1680.984@0.23.1680.984" timestamp="1580995662478" />
-    <state width="1638" height="235" key="GridCell.Tab.0.center" timestamp="1581262901314">
-      <screen x="0" y="23" width="1680" height="982" />
+    <state width="788" height="235" key="GridCell.Tab.0.center" timestamp="1581436448782">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="788" height="235" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581262743927" />
+    <state width="788" height="235" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581436448782" />
     <state width="1638" height="263" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1580826201109" />
     <state width="1638" height="235" key="GridCell.Tab.0.center/0.23.1680.981@0.23.1680.981" timestamp="1581262805609" />
     <state width="1638" height="235" key="GridCell.Tab.0.center/0.23.1680.982@0.23.1680.982" timestamp="1581262901314" />
     <state width="1638" height="235" key="GridCell.Tab.0.center/0.23.1680.984@0.23.1680.984" timestamp="1580995662477" />
-    <state width="1638" height="235" key="GridCell.Tab.0.left" timestamp="1581262901313">
-      <screen x="0" y="23" width="1680" height="982" />
+    <state width="788" height="235" key="GridCell.Tab.0.left" timestamp="1581436448781">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="788" height="235" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581262743926" />
+    <state width="788" height="235" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581436448781" />
     <state width="1638" height="263" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1580826201108" />
     <state width="1638" height="235" key="GridCell.Tab.0.left/0.23.1680.981@0.23.1680.981" timestamp="1581262805608" />
     <state width="1638" height="235" key="GridCell.Tab.0.left/0.23.1680.982@0.23.1680.982" timestamp="1581262901313" />
     <state width="1638" height="235" key="GridCell.Tab.0.left/0.23.1680.984@0.23.1680.984" timestamp="1580995662476" />
-    <state width="1638" height="235" key="GridCell.Tab.0.right" timestamp="1581262901314">
-      <screen x="0" y="23" width="1680" height="982" />
+    <state width="788" height="235" key="GridCell.Tab.0.right" timestamp="1581436448783">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="788" height="235" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581262743927" />
+    <state width="788" height="235" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581436448783" />
     <state width="1638" height="263" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1580826201109" />
     <state width="1638" height="235" key="GridCell.Tab.0.right/0.23.1680.981@0.23.1680.981" timestamp="1581262805609" />
     <state width="1638" height="235" key="GridCell.Tab.0.right/0.23.1680.982@0.23.1680.982" timestamp="1581262901314" />
     <state width="1638" height="235" key="GridCell.Tab.0.right/0.23.1680.984@0.23.1680.984" timestamp="1580995662477" />
-    <state width="1638" height="325" key="GridCell.Tab.1.bottom" timestamp="1580971303946">
-      <screen x="0" y="23" width="1680" height="984" />
+    <state width="788" height="362" key="GridCell.Tab.1.bottom" timestamp="1581435869640">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="788" height="362" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581435869640" />
     <state width="1638" height="325" key="GridCell.Tab.1.bottom/0.23.1680.980@0.23.1680.980" timestamp="1580826161326" />
     <state width="1638" height="325" key="GridCell.Tab.1.bottom/0.23.1680.981@0.23.1680.981" timestamp="1580825976029" />
     <state width="1638" height="325" key="GridCell.Tab.1.bottom/0.23.1680.984@0.23.1680.984" timestamp="1580971303946" />
-    <state width="1638" height="325" key="GridCell.Tab.1.center" timestamp="1580971303946">
-      <screen x="0" y="23" width="1680" height="984" />
+    <state width="788" height="362" key="GridCell.Tab.1.center" timestamp="1581435869639">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="788" height="362" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581435869639" />
     <state width="1638" height="325" key="GridCell.Tab.1.center/0.23.1680.980@0.23.1680.980" timestamp="1580826161326" />
     <state width="1638" height="325" key="GridCell.Tab.1.center/0.23.1680.981@0.23.1680.981" timestamp="1580825976028" />
     <state width="1638" height="325" key="GridCell.Tab.1.center/0.23.1680.984@0.23.1680.984" timestamp="1580971303946" />
-    <state width="1638" height="325" key="GridCell.Tab.1.left" timestamp="1580971303946">
-      <screen x="0" y="23" width="1680" height="984" />
+    <state width="788" height="362" key="GridCell.Tab.1.left" timestamp="1581435869638">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="788" height="362" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581435869638" />
     <state width="1638" height="325" key="GridCell.Tab.1.left/0.23.1680.980@0.23.1680.980" timestamp="1580826161325" />
     <state width="1638" height="325" key="GridCell.Tab.1.left/0.23.1680.981@0.23.1680.981" timestamp="1580825976027" />
     <state width="1638" height="325" key="GridCell.Tab.1.left/0.23.1680.984@0.23.1680.984" timestamp="1580971303946" />
-    <state width="1638" height="325" key="GridCell.Tab.1.right" timestamp="1580971303946">
-      <screen x="0" y="23" width="1680" height="984" />
+    <state width="788" height="362" key="GridCell.Tab.1.right" timestamp="1581435869639">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="788" height="362" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581435869639" />
     <state width="1638" height="325" key="GridCell.Tab.1.right/0.23.1680.980@0.23.1680.980" timestamp="1580826161326" />
     <state width="1638" height="325" key="GridCell.Tab.1.right/0.23.1680.981@0.23.1680.981" timestamp="1580825976028" />
     <state width="1638" height="325" key="GridCell.Tab.1.right/0.23.1680.984@0.23.1680.984" timestamp="1580971303946" />
@@ -284,11 +309,12 @@
     <state x="349" y="136" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1580828774189" />
     <state x="349" y="150" key="SettingsEditor/0.23.1680.980@0.23.1680.980" timestamp="1580825911150" />
     <state x="349" y="150" key="SettingsEditor/0.23.1680.981@0.23.1680.981" timestamp="1580825441413" />
-    <state x="440" y="271" key="Vcs.Push.Dialog.v2" timestamp="1581259659103">
-      <screen x="0" y="23" width="1680" height="981" />
+    <state x="440" y="271" key="Vcs.Push.Dialog.v2" timestamp="1581263062401">
+      <screen x="0" y="23" width="1680" height="982" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1580998542684" />
     <state x="440" y="271" key="Vcs.Push.Dialog.v2/0.23.1680.981@0.23.1680.981" timestamp="1581259659103" />
+    <state x="440" y="271" key="Vcs.Push.Dialog.v2/0.23.1680.982@0.23.1680.982" timestamp="1581263062401" />
     <state x="904" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1581261517061">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
